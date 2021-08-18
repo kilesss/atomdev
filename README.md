@@ -1,4 +1,4 @@
-Used vuejs for front-end with Tailwind CSS installed via npv \n
+Used vuejs for front-end with Tailwind CSS installed via npv <br>
 on backend validation is exported in Different classes controlled from middleware (for this way we receive always clean and validated data in controller)
 in controllers is added insert query with Query builder and with eloquent . 
 
