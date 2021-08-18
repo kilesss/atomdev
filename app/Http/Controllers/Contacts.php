@@ -14,13 +14,6 @@ use Illuminate\Http\Request;
  */
 class Contacts extends Controller
 {
-    /**
-     * Contacts constructor.
-     */
-    public function __construct()
-    {
-        $this->middleware('guest')->except('logout');
-    }
 
     /**
      * @return Application|
